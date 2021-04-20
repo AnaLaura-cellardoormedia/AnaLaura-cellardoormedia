@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnaLaura-cellardoormedia
-- 👀 I’m interested in graphic arts and music
+- 👀 I’m interested in graphic arts and performance arts
 - 🌱 I’m currently learning US History and js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter @anicoto
