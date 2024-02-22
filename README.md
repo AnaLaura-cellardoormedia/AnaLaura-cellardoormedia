@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnaLaura-cellardoormedia
+- 👋 Hi, I’m @AnaLaura-Coto
 - 👀 I’m interested in graphic arts and performance arts
 - 🌱 I’m currently learning US History and js.
 - 💞️ I’m looking to collaborate on ...
